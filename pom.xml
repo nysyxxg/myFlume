@@ -21,6 +21,15 @@
 			<artifactId>flume-ng-core</artifactId>
 			<version>1.7.0</version>
 		</dependency>
+
+
+		<dependency>
+			<groupId>org.apache.flume.flume-ng-sources</groupId>
+			<artifactId>flume-taildir-source</artifactId>
+			<version>1.7.0</version>
+		</dependency>
+
+
 		<dependency>
 			<groupId>oro</groupId>
 			<artifactId>oro</artifactId>
