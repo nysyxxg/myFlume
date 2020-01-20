@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by noah on 17-9-8.
  */
-public class testInterceptor implements Interceptor {
+public class TestInterceptor implements Interceptor {
 
 	/* 任何需要拦截器初始化或者启动的操作就可以定义在此，无则为空即可 */
 	@Override

@@ -52,7 +52,7 @@ public class MySource extends AbstractSource implements Configurable, PollableSo
 				throw (Error) t;
 			}
 		} finally {
-			txn.close();
+			//txn.close();
 		}
 		return status;
 	}
